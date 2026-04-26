@@ -1,6 +1,6 @@
 # ImageBuddy
 
-![License: MIT](https://img.shields.io/github/license/rookiemann/ImageBuddy) ![Platform: Windows](https://img.shields.io/badge/Platform-Windows%2010%2F11-blue) ![Python](https://img.shields.io/badge/Python-Portable-green)
+![License: MIT](https://img.shields.io/github/license/aivrar/ImageBuddy) ![Platform: Windows](https://img.shields.io/badge/Platform-Windows%2010%2F11-blue) ![Python](https://img.shields.io/badge/Python-Portable-green)
 
 A portable Windows app for searching, downloading, and managing stock images from Pixabay, Pexels, and Unsplash. Features parallel AI-powered captioning with Florence-2 and a full REST API for automation.
 
@@ -222,7 +222,7 @@ ImageBuddy/
 
 ## Credits
 
-- **[@rookiemann](https://github.com/rookiemann)** -- Creator and maintainer
+- **[@aivrar](https://github.com/aivrar)** -- Creator and maintainer
 - **[Florence-2](https://huggingface.co/microsoft/Florence-2-base)** (Microsoft) -- AI vision model
 - **[Pixabay](https://pixabay.com/)**, **[Pexels](https://www.pexels.com/)**, **[Unsplash](https://unsplash.com/)** -- Image sources
 - **[Claude Code](https://claude.ai/claude-code)** (Anthropic) -- AI pair programmer
